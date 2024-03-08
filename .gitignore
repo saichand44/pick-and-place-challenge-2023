@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+# ignore the local vs code preferences
+.vscode/
+=======
+/lib/__pycache__/
+/core/__pycache__/
+>>>>>>> ca63b2f400fddcd267905d794dff139c9863a2b5
